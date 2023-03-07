@@ -1,0 +1,135 @@
+@font-face{
+    font-family: fuenteRandom;
+    src: url("Santana-Black.ttf");
+}
+
+
+body{
+    
+    background-color: #decdc5;
+    
+}
+
+
+.titulo{
+    display: flex;
+    justify-content: center;
+}
+
+.contenedor{
+    display: flex;
+    gap: 50px;
+}
+
+.columna_1{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color: #8e747d;
+    border-radius: 15px;
+    width: 310px;
+    height: 380px;
+    text-align: left;
+    padding: 10px;
+   
+
+}
+
+.columna_2{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color: #8e747d;
+    border-radius: 15px;
+    width: 50px;
+    height: 380px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.columna_3{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color: #8e747d;
+    border-radius: 15px;
+    width: 50px;
+    height: 380px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+
+
+.colum{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color: #8e747d;
+    border-radius: 15px;
+    width: 310px;
+    height: 380px;
+    text-align: left;
+    padding: 10px;
+   
+
+}
+
+.colums{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color: #8e747d;
+    border-radius: 15px;
+    width: 50px;
+    height: 380px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+.columna_33{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Tilt Neon', cursive;
+    color: white;
+    background-color: #8e747d;
+    border-radius: 15px;
+    width: 50px;
+    height: 380px;
+    text-align: center;
+    padding: 10px;
+
+}
+
+
+.recep{
+    background-image: url("../img/recepeit2.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Sono', sans-serif;
+    padding: 200px;
+
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 50px
+}
+
+.banner{
+
+    font-family: 'Anton', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    background-color: #725e67;
+    padding: 1.5px;
+}
